@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 ![PavanMudigondaTR's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanMudigondaTR&theme=dark&show_icons=true)
+
 ![PavanMudigonda's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanMudigonda&theme=dark&show_icons=true)
 
 
