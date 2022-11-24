@@ -6,7 +6,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanMudigonda&langs_count=5&theme=tokyonight)]()
 
 - 🔭 I’m currently working at Thomson Reuters as Lead Engineer in DevOps Team.
-- 🌱 I’m currently learning  AWS, Docker, Kubernetes, OpenShift, RHEL and Ansible
+- 🌱 I’m currently learning  AWS, Kubernetes.
 - 👯 I’m looking to collaborate on learning something new.
 - 🤔 I’m not looking for any help currently.
 - 💬 Ask me about anything.
