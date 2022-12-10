@@ -3,7 +3,6 @@
 ### Hi there 👋
 
 ![PavanMudigonda GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanMudigonda&theme=dark&show_icons=true)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanMudigonda&langs_count=5&theme=tokyonight)]()
 
 - 🔭 I’m currently working at Thomson Reuters as Lead Engineer in DevOps Team.
 - 🌱 I’m currently learning  AWS, Kubernetes.
