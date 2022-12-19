@@ -1,4 +1,4 @@
-![1617755230417](https://user-images.githubusercontent.com/29324338/126084298-e1f09662-3686-4cf7-92ac-3b29cd0e3f88.jpg)
+![Stats](https://github.com/PavanMudigonda/pavanmudigonda/blob/main/images/userstats.svg)
 
 ### Hi there 👋
 
