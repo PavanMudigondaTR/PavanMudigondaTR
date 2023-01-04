@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Thomson Reuters as Lead Engineer in DevOps Team.
-- 🌱 I’m currently learning  AWS, Kubernetes.
+- 🌱 I’m currently learning AI and ML.
 - 👯 I’m looking to collaborate on learning something new.
 - 🤔 I’m not looking for any help currently.
 - 💬 Ask me about anything.
