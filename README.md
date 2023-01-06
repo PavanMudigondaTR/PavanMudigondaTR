@@ -1,5 +1,7 @@
 ![Stats](https://github.com/PavanMudigonda/pavanmudigonda/blob/main/images/userstats.svg)
 
+![Views](https://komarev.com/ghpvc/?username=PavanMudigondaTR)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working at Thomson Reuters as Lead Engineer in DevOps Team.
