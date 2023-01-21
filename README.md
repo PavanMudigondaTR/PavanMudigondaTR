@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on learning something new.
 - 🤔 I’m not looking for any help currently.
 - 💬 Ask me about anything.
-- 📫 How to reach: nagapavankumar.mudigonda@tr.com
+- 📫 How to reach: mnpawan@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have once seen a frog drink coke with both its hands from a can. Trust me :)
 
