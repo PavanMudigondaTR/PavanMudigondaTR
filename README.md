@@ -1,5 +1,3 @@
-![Stats](https://github.com/PavanMudigonda/pavanmudigonda/blob/main/images/userstats.svg)
-
 ![Views](https://komarev.com/ghpvc/?username=PavanMudigondaTR)
 
 ### Hi there 👋
