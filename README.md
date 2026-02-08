@@ -1,4 +1,4 @@
-![PavanMudigondaTR's GitHub Banner](https://raw.githubusercontent.com/PavanMudigondaTR/PavanMudigondaTR/main/images/banner.png)
+![PavanMudigondaTR's GitHub Banner](https://github.com/PavanMudigondaTR/PavanMudigondaTR/blob/8a4b2f535f5a4ffeec5bcf7ae57e1ecd7796d6c2/images/banner.png)
 
 ![Views](https://komarev.com/ghpvc/?username=PavanMudigondaTR)
 
