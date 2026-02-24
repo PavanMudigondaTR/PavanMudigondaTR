@@ -29,7 +29,7 @@ Docker | Kubernetes | Helm | ECS | AKS | GKE | Apple Containers
 GitHub Actions | Jenkins | Azure DevOps | ArgoCD  
 
 **Monitoring & Observability:**  
-Prometheus | Grafana | Datadog | CloudWatch | DataDog  
+Prometheus | Grafana | Datadog | CloudWatch | DynaTrace
 
 **Configuration Management:**  
 Ansible
