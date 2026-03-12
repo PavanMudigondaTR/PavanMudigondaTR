@@ -1,66 +1,117 @@
 ![PavanMudigondaTR's GitHub Banner](https://github.com/PavanMudigondaTR/PavanMudigondaTR/blob/8a4b2f535f5a4ffeec5bcf7ae57e1ecd7796d6c2/images/banner.png)
 
-![Views](https://komarev.com/ghpvc/?username=PavanMudigondaTR)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PavanMudigondaTR&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/PavanMudigondaTR?label=Followers&style=for-the-badge&color=236ad3" alt="Followers"/>
+</p>
 
-# 👋 Hi, I'm Pavan Mudigonda
+# Hi there, I'm Pavan Mudigonda 👋
 
-### 💻 Cloud DevOps Engineer | SRE | Multi-Cloud Specialist | Automation | AI/ML
+### 🏗️ Associate Architect | Cloud & Platform Engineering | DevOps | AI/ML
 
-I'm a hands-on engineer passionate about building **scalable cloud infrastructure**, **robust automation frameworks**, and **cloud-native solutions**.  
-My work blends DevOps best practices with modern cloud architecture and AI/ML integration — always focused on building reliable, production-ready systems.
+I'm an **Associate Architect** with deep expertise in designing and building **enterprise-grade cloud architectures**, **platform engineering solutions**, and **AI-powered automation systems**.
 
----
+I drive architectural decisions across **multi-cloud environments**, lead technical strategy for **cloud-native platforms**, and champion **DevOps excellence** — bridging the gap between engineering teams and scalable, resilient infrastructure.
 
-## Professional Skills
-
-**Languages:**  
-Python | Go | JavaScript/TypeScript | Bash | C# 
-
-**Cloud Platforms:**  
-AWS | Azure | GCP 
-
-**Infrastructure as Code:**  
-Terraform | CloudFormation | AWS CDK | ARM Templates  | BICEP
-
-**Container & Orchestration:**  
-Docker | Kubernetes | Helm | ECS | AKS | GKE | Apple Containers  
-
-**CI/CD & DevOps:**  
-GitHub Actions | Jenkins | Azure DevOps | ArgoCD  
-
-**Monitoring & Observability:**  
-Prometheus | Grafana | Datadog | CloudWatch | DynaTrace
-
-**Configuration Management:**  
-Ansible
-
-**Databases:**  
-PostgreSQL | MySQL | MongoDB | Redis | DynamoDB  
-
-**AI/ML:**  
-Azure OpenAI | Azure AI Studio | Prompt Flow | Semantic Kernel | AWS Bedrock | AWS SageMaker | Vertex AI | Gemini | LangChain | Hugging Face | MLOps  
-
-**Version Control:**  
-Git | GitHub
-
-**Security & Compliance:**  
-Snyk | AWS IAM | Azure AD | RBAC  
-
-**Web Frameworks:**  
-React | Angular | Nuxt.js | Vue.js | Node.js | FastAPI
-
-**Test Automation:**  
-Playwright TypeScript | Playwright Python | Selenium | PyTest
-
-**Performance Test Automation:**  
-JMeter | K6 | Automai
-
-**Accessibility Test Automation:**  
-Deque | Axe OpenSource
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Associate%20Architect-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Architecture-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Passion-Platform%20Engineering-green?style=for-the-badge"/>
+</p>
 
 ---
 
-## Certifications
+## 🏗️ Architecture & Design
+
+| Domain | Expertise |
+|--------|-----------|
+| **Architecture Patterns** | Microservices · Event-Driven · Domain-Driven Design · CQRS · Serverless |
+| **Cloud Architecture** | Well-Architected Framework · Multi-Cloud Strategy · Hybrid Cloud · Landing Zones |
+| **Platform Engineering** | Internal Developer Platforms · Golden Paths · Self-Service Infrastructure |
+| **System Design** | High Availability · Disaster Recovery · Scalability · Fault Tolerance |
+| **API Design** | RESTful APIs · GraphQL · gRPC · API Gateway Patterns |
+| **Security Architecture** | Zero Trust · IAM Strategy · Encryption at Rest/Transit · Compliance Frameworks |
+
+---
+
+## 🛠️ Technical Skills
+
+<details>
+<summary><b>☁️ Cloud Platforms & Infrastructure</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Cloud Platforms** | AWS · Azure · GCP |
+| **Infrastructure as Code** | Terraform · CloudFormation · AWS CDK · ARM Templates · BICEP |
+| **Containers & Orchestration** | Docker · Kubernetes · Helm · ECS · AKS · GKE · Apple Containers |
+| **Configuration Management** | Ansible |
+
+</details>
+
+<details>
+<summary><b>⚙️ DevOps & CI/CD</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **CI/CD Pipelines** | GitHub Actions · Jenkins · Azure DevOps · ArgoCD |
+| **GitOps** | ArgoCD · Flux |
+| **Monitoring & Observability** | Prometheus · Grafana · Datadog · CloudWatch · DynaTrace |
+| **Version Control** | Git · GitHub |
+
+</details>
+
+<details>
+<summary><b>💻 Languages & Frameworks</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python · Go · JavaScript/TypeScript · Bash · C# |
+| **Web Frameworks** | React · Angular · Nuxt.js · Vue.js · Node.js · FastAPI |
+| **Databases** | PostgreSQL · MySQL · MongoDB · Redis · DynamoDB |
+
+</details>
+
+<details>
+<summary><b>🤖 AI/ML & Intelligent Systems</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Azure AI** | Azure OpenAI · Azure AI Studio · Prompt Flow · Semantic Kernel |
+| **AWS AI** | AWS Bedrock · AWS SageMaker |
+| **Google AI** | Vertex AI · Gemini |
+| **Frameworks** | LangChain · Hugging Face · MLOps |
+
+</details>
+
+<details>
+<summary><b>🔒 Security & Compliance</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Security Tools** | Snyk · AWS IAM · Azure AD · RBAC |
+
+</details>
+
+<details>
+<summary><b>🧪 Test Engineering</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Test Automation** | Playwright (TypeScript & Python) · Selenium · PyTest |
+| **Performance Testing** | JMeter · K6 · Automai |
+| **Accessibility Testing** | Deque · Axe OpenSource |
+
+</details>
+
+---
+
+## 🏆 Certifications
 
 <p align="center">
 <a href="https://www.credly.com/badges/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3" title="Project Management Professional (PMP)®">
@@ -111,30 +162,57 @@ Deque | Axe OpenSource
 
 ## 🚀 Currently Exploring
 
-- Building **AI-powered DevOps workflows** with LLMs and automation  
-- Exploring **Platform Engineering** and **Internal Developer Platforms (IDP)**  
-- Implementing **GitOps** practices with ArgoCD and Flux  
-- Passionate about **FinOps** and cloud cost optimization
+- 🏗️ **Solution Architecture** — Designing enterprise patterns for distributed systems at scale  
+- 🤖 **AI-powered DevOps workflows** — Integrating LLMs into CI/CD, incident response, and code review  
+- 🌐 **Platform Engineering** — Building Internal Developer Platforms (IDPs) with golden paths  
+- 🔄 **GitOps at Scale** — Multi-cluster GitOps with ArgoCD and Flux  
+- 💰 **FinOps & Cloud Optimization** — Architecting cost-efficient, well-governed cloud estates  
+- 📐 **Architecture Decision Records (ADRs)** — Establishing governance through documented decisions  
 
 ---
 
-## 🌱 Personal Philosophy
+## 📊 GitHub Stats
 
-> "Automate everything you can, monitor everything you must, and simplify everything you build."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanMudigondaTR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanMudigondaTR&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-I believe in continuous learning, infrastructure-as-code first thinking, and designing solutions that empower teams to ship faster and safer.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanMudigondaTR&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavanMudigondaTR&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
+</p>
+
+---
+
+## 🌱 Architecture Philosophy
+
+> *"Design for failure, build for scale, automate for speed, and simplify for sustainability."*
+
+I believe in making **architectural decisions that empower teams** — choosing the right trade-offs between complexity and capability, driving **infrastructure-as-code first** thinking, and creating platforms that let developers focus on business value rather than operational toil.
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Website: [abcd.guru](https://abcd.guru)
-- 💼 LinkedIn: [Connect on LinkedIn](https://linkedin.com)
-- 🐦 Twitter: [@pavanmudigonda](https://twitter.com)
+<p align="center">
+  <a href="https://abcd.guru"><img src="https://img.shields.io/badge/Website-abcd.guru-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-@pavanmudigonda-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐ *If you find something useful here, consider giving it a star!*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <i>⭐ If you find something useful here, consider giving it a star!</i>
+</p>
 
 
 
